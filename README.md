@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharif2008](https://github.com/sharif2008)
 - 📝 Find my blogs on [Medium](https://medium.com/@sharif2008)
-- 💬 Ask me about *Java, SpringBoot, Nodejs, Backend Development, Digital Signature, Blockchain*.
+- 💬 Ask me about **Java, SpringBoot, NodeJS, Backend Development, Digital Signature, Blockchain, Micro-Service**.
 - ⚡ Fun fact: *Movies, TV Series, Coffee, Soccer, Table Tennis & Guitar*
 
 <p align="center">
