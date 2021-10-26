@@ -1,10 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Md. Shariful Islam</h1>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sharif2008}/count.svg" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharif2008" alt="sharif2008" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sharif2008&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
 
-- 💬 Ask me about *Java, SpringBoot, Backend Development, Digital Signature, Blockchain*.
+
+- 👨‍💻 All of my projects are available at [https://github.com/sharif2008](https://github.com/sharif2008)
+- 📝 Find my blogs on [Medium](https://medium.com/@sharif2008)
+- 💬 Ask me about *Java, SpringBoot, Nodejs, Backend Development, Digital Signature, Blockchain*.
+- ⚡ Fun fact: *Movies, TV Series, Coffee, Soccer, Table Tennis & Guitar*
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sharif2008/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oguzhankarahan" height="30" width="30" /></a>
