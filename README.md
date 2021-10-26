@@ -6,7 +6,12 @@
 
 - 💬 Ask me about *Java, SpringBoot, Backend Development, Digital Signature, Blockchain*.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/sharif2008/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oguzhankarahan" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/1540689/sharif2008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="oguzhankarahan" height="30" width="30" /></a>
+<a href="https://medium.com/@sharif2008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="oguzhankarahan" height="30" width="30" /></a>
 
+</p>
 <!--
 **sharif2008/sharif2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
