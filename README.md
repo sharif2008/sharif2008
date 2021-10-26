@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sharif2008}/count.svg" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharif2008&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
+
+- 💬 Ask me about *Java, SpringBoot, Backend Development, Digital Signature, Blockchain*.
+
+
 <!--
 **sharif2008/sharif2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
