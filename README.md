@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sharif2008" alt="sharif2008" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharif2008&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics">
+<!--img src="https://github-readme-stats.vercel.app/api?username=sharif2008&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics"-->
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharif2008](https://github.com/sharif2008)
