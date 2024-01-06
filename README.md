@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Shariful Islam</h1>
 
-<p align="center">
+<!--p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharif2008" alt="sharif2008" />
-</p>
+</p-->
 
 <!--img src="https://github-readme-stats.vercel.app/api?username=sharif2008&count_private=true&show_icons=true&theme=yeblu" alt="Code Statistics"-->
 
